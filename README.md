@@ -191,5 +191,3 @@ Los scripts son herramientas independientes, no un pipeline automatizado: las ru
 - Las unidades espaciales deben ser consistentes: distancias de buffers y tamaños de cuadrícula se interpretan en las unidades de las coordenadas.
 - Mantenga copias de los datos originales antes de ejecutar operaciones de movimiento o sobrescritura.
 - No se incluye un conjunto de datos de ejemplo ni pruebas automatizadas; valide los resultados con una muestra antes de procesar lotes completos.
-#   G e n e r a l - s c r i p t s - f o r - w o r k f l o w - w i t h - T L S - A m a c a y a c u  
- 
